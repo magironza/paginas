@@ -1,0 +1,106 @@
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\Libro.dll
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\Libro.pdb
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\resources.pri
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\AppxManifest.xml
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\Libro.build.appxrecipe
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\AppManifest.xaml
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\Bin\Debug\Libro_Debug_AnyCPU.xap
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\App.g.cs
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\MainPage.g.cs
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\Libro.g.resources
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\Libro.Resources.AppResources.resources
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\Libro.csproj.GenerateResource.Cache
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\Libro.dll
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\Libro.pdb
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\priconfig.xml
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\priconfig.xml.intermediate
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\layout.resfiles
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\layout.resfiles.intermediate
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\resources.resfiles
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\resources.resfiles.intermediate
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\pri.resfiles
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\pri.resfiles.intermediate
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\qualifiers.txt
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\qualifiers.txt.intermediate
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\ProjectArchitectures.txt
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\MDILProjectFiles.xml
+C:\Users\MobileLab18\Documents\AlmacenamientoLocal\Libro\Libro\obj\Debug\XapCacheFile.xml
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\App.g.cs
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\Libro.dll
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\Libro.pdb
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\MainPage.g.cs
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\Libro.g.resources
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\Libro.Resources.AppResources.resources
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\Libro.csproj.GenerateResource.Cache
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Libro.dll
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Libro.pdb
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\resources.pri
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\AppxManifest.xml
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Libro.build.appxrecipe
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\AppManifest.xaml
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Libro_Debug_AnyCPU.xap
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\priconfig.xml
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\priconfig.xml.intermediate
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\layout.resfiles
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\layout.resfiles.intermediate
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\resources.resfiles
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\resources.resfiles.intermediate
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\pri.resfiles
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\pri.resfiles.intermediate
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\qualifiers.txt
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\qualifiers.txt.intermediate
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\ProjectArchitectures.txt
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\MDILProjectFiles.xml
+C:\Users\MobileLab17\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\XapCacheFile.xml
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\App.g.cs
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\MainPage.g.cs
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\PagLibros.g.cs
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\Libro.g.resources
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\Libro.Resources.AppResources.resources
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\Libro.csproj.GenerateResource.Cache
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\Libro.dll
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\Libro.pdb
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Libro.dll
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Libro.pdb
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\resources.pri
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\AppxManifest.xml
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Libro.build.appxrecipe
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\AppManifest.xaml
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\Bin\Debug\Libro_Debug_AnyCPU.xap
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\priconfig.xml
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\priconfig.xml.intermediate
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\layout.resfiles
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\layout.resfiles.intermediate
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\resources.resfiles
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\resources.resfiles.intermediate
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\pri.resfiles
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\pri.resfiles.intermediate
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\qualifiers.txt
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\ProjectArchitectures.txt
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\MDILProjectFiles.xml
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\Libro\Libro\obj\Debug\XapCacheFile.xml
